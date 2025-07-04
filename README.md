@@ -34,11 +34,9 @@ AI Builder Form empowers users to:
 
 https://github.com/user-attachments/assets/8201d228-a371-48e3-ba39-61a7090537fd
 
-![Screenshot_4-7-2025_6385_localhost](https://github.com/user-attachments/assets/20fe8ab8-5324-4717-b03a-b842b426532b)
 
 
 
-
-
+![Screenshot_4-7-2025_6385_localhost](https://github.com/user-attachments/assets/106cdbaa-f6f4-461e-a80d-111afdb79f35)
 
 
