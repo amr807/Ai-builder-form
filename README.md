@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Screenshot_4-7-2025_63628_localhost](https://github.com/user-attachments/assets/5432c4a7-bf18-4f5a-90f2-eb452357aa17)# AI Builder Form
 
-## Getting Started
+A full-stack, AI-powered web application that allows users to generate smart, dynamic forms by simply describing them in plain text. This project harnesses the power of **Google Gemini AI**, **Next.js**, **NestJS**, and a modern monorepo setup to deliver seamless user experiences across web and backend.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+##  Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+AI Builder Form empowers users to:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Generate fully functional forms using plain English prompts
+- Dynamically render form fields based on AI-generated JSON
+- Communicate with Google Gemini API for generative form creation
+- Send form data to a backend and optionally store or email it
+-  Ideal for surveys, HR forms, client intake forms, and more
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+##  Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+| Layer         | Technology                              |
+|---------------|-------------------------------------------|
+| **Frontend**  | Next.js, React, TypeScript, Tailwind CSS, ShadCN UI |
+| **Backend**   | NestJS, TypeScript, REST API             |
+| **AI Service**| Google Gemini API                        |
+| **Database**  | PostgreSQL                               |
+| **Queue (Optional)** | agenda for async email/message queues |
+| **Tooling**   | TurboRepo, NPM, ESLint, Prettier        |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+https://github.com/user-attachments/assets/8201d228-a371-48e3-ba39-61a7090537fd
+
+![Screenshot_4-7-2025_6385_localhost](https://github.com/user-attachments/assets/20fe8ab8-5324-4717-b03a-b842b426532b)
+
+
+
+
+
+
+
