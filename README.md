@@ -24,8 +24,8 @@ AI Builder Form empowers users to:
 | **Backend**   | NestJS, TypeScript, REST API             |
 | **AI Service**| Google Gemini API                        |
 | **Database**  | PostgreSQL                               |
-| **Queue (Optional)** | agenda for async email/message queues |
-| **Tooling**   | TurboRepo, NPM, ESLint, Prettier        |
+| **Queue** | agenda for async email/message queues |
+| **Tooling**   | TurboRepo, NPM,         |
 
 ---
 
