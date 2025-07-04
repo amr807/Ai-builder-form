@@ -20,12 +20,12 @@ AI Builder Form empowers users to:
 
 | Layer         | Technology                              |
 |---------------|-------------------------------------------|
-| **Frontend**  | Next.js, React, TypeScript, Tailwind CSS, ShadCN UI |
-| **Backend**   | NestJS, TypeScript, REST API             |
+| **Frontend**  | Next.js,  ShadCN UI |
+| **Backend**   | NestJSI             |
 | **AI Service**| Google Gemini API                        |
 | **Database**  | PostgreSQL                               |
-| **Queue** | agenda for async email/message queues |
-| **Tooling**   | TurboRepo, NPM,         |
+| **Queue** | agenda for async email queues |
+| **Tooling**   | TurboRepo, NPM        |
 
 ---
 
