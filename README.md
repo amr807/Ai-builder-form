@@ -1,4 +1,4 @@
-![Screenshot_4-7-2025_63628_localhost](https://github.com/user-attachments/assets/5432c4a7-bf18-4f5a-90f2-eb452357aa17)# AI Builder Form
+# AI Builder Form
 
 A full-stack, AI-powered web application that allows users to generate smart, dynamic forms by simply describing them in plain text. This project harnesses the power of **Google Gemini AI**, **Next.js**, **NestJS**, and a modern monorepo setup to deliver seamless user experiences across web and backend.
 
